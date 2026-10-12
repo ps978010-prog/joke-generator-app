@@ -41,3 +41,13 @@ Una aplicación Android que genera chistes aleatorios usando una API externa.
 4. ¡Disfruta el chiste! 😄
 
 ## Estructura del proyecto
+joke-generator-app/ ├── app/ │ ├── src/main/ │ │ ├── java/com/example/jokegenerator/ │ │ │ ├── MainActivity.kt │ │ │ ├── Joke.kt │ │ │ └── JokeService.kt │ │ ├── res/ │ │ │ └── values/ │ │ │ ├── strings.xml │ │ │ └── themes.xml │ │ └── AndroidManifest.xml │ └── build.gradle.kts ├── .github/workflows/ │ └── android-build.yml ├── build.gradle.kts ├── settings.gradle.kts └── README.md
+
+
+## API
+
+Usa [Official Joke API](https://official-joke-api.appspot.com/)
+
+## Licencia
+
+MIT
