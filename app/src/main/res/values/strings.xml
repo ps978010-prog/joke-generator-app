@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Joke Generator</string>
+    <string name="get_joke">Get Joke</string>
+    <string name="loading">Loading...</string>
+    <string name="error">Error loading joke</string>
+</resources>
